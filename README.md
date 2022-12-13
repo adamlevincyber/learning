@@ -5,8 +5,8 @@ The advanced technical certifications that I am interested in will take lots of 
 
 Below are a list of certifications I will earn when time allows.
 - Offensive Security Exploit Developer (OSED)
-- eLearnSecurity Certified Malware Analysis Professional (eCMAP)
 - eLearnSecurity Certified Reverse Engineer (eCRE)
+- eLearnSecurity Certified Malware Analysis Professional (eCMAP)
 ___
 
 ## Courses I Am Actively Taking:
@@ -16,18 +16,16 @@ ___
 - Malware Analysis Professional
 
 ### TCM Academy:
-- Open-Source Intelligence (OSINT) Fundamentals
+- Open-Source Intelligence (OSINT) Fundamentals | **Finished!**
 - Practical Malware Analysis & Triage
 - Practical Windows Forensics
 
-### MITRE ATT&CK Defender:
-- Cyber Threat Intelligence (CTI)
-- Threat Hunting Detection Engineering
 ___
 
 ### Other Subjects:
 - Learning GEOINT/IMINT combined with OSINT
 - Synthetic Aperature Radar (SAR)
+- Geolocation through imagery
 - UAV/UAS/RPAS
 - Encryption algorithms and how they play into private and secure communication
 - QEMU/KVM
